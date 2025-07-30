@@ -7,7 +7,7 @@ Bonjour, moi c'est Camille !
 
 Les compétences en cours :
 - HTML, CSS, JS
-- Un peu de CQL et de Python 
+- Un peu de SQL et de Python 
 
 Les projets : 
 J'ai suivi via les cours OpenClassroms différents projets : 
