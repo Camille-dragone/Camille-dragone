@@ -1,16 +1,19 @@
-## Hi there 👋
+Bonjour, moi c'est Camille ! 
 
-<!--
-**Camille-dragone/Camille-dragone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en développement web à la **Wild Code School**, suite à une reconversion professionnelle.
+💡 Passionnée par la création web
+🔧 En formation pour devenir développeuse full-stack
+📍 Basée à Toulouse | 🌍 Ouverte à de nouveaux défis techniques et créatifs
 
-Here are some ideas to get you started:
+Les compétences en cours :
+- HTML, CSS, JS
+- Un peu de CQL et de Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Les projets : 
+J'ai suivi via les cours OpenClassroms différents projets : 
+- Création d'une page web en premier uniquement en HTML et CSS
+- Création d'un site web interactif avec le JavaScript
+
+Me contacter :
+- camillebujotzek02@gmail.com
+- Linkedin : https://www.linkedin.com/in/camille-bujotzek-4a14141a6/
