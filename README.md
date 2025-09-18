@@ -6,13 +6,15 @@ Bonjour, moi c'est Camille !
 📍 Basée à Toulouse | 🌍 Ouverte à de nouveaux défis techniques et créatifs
 
 Les compétences en cours :
-- HTML, CSS, JS
+- HTML, CSS, JS, REACT.JS,NODE.JS, EXPRESS
 - Un peu de SQL et de Python 
 
 Les projets : 
 J'ai suivi via les cours OpenClassroms différents projets : 
 - Création d'une page web en premier uniquement en HTML et CSS
 - Création d'un site web interactif avec le JavaScript
+- Passez au Full Stack avec Node.js, Express et MongoDB
+- créer une application React complète avec Create React App ;
 
 Me contacter :
 - camillebujotzek02@gmail.com
